@@ -11,7 +11,7 @@ description: A new Flutter project.
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 1.0.0+1
+version: 2.0.0+5
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -51,9 +51,9 @@ dev_dependencies:
 
 
 flutter_native_splash:
-  image: assets/images/splash_screen.jpg
+  image: assets/images/insta-splash-screen2.png
   color: "ffffff"
-  # fill: true
+  fill: true
   
 
 
@@ -94,6 +94,10 @@ flutter:
     - assets/images/no_post.png
     - assets/images/approval-blue.png
     - assets/images/approval-red.png
+    - assets/images/icons8-lock-color2.svg
+    - assets/images/icons8-lock.svg
+    - assets/images/insta-splash-screen.png
+    - assets/images/insta-splash-screen2.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
