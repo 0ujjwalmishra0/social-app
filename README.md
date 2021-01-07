@@ -57,9 +57,10 @@ A Social Networking app built using Flutter and Firebase
 
 #### 2. Clone the repo
 
+
+
 ```sh
-$ git clone https://github.com/mohak1283/Instagram-Clone
-$ cd Instagram-Clone/
+$ git clone https://github.com/0ujjwalmishra0/social-app
 ```
 
 #### 3. Setup the firebase app
