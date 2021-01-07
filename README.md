@@ -27,25 +27,25 @@ A Social Networking app built using Flutter and Firebase
 
 <p>
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/login.jpg" alt="login" width = "400" >
+<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/login.jpg" alt="login" >
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/sign-up.jpg" alt="sign up" width = "400" >
+<img width="300"  src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/sign-up.jpg" alt="sign up"  >
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/timeline.jpg" alt="timeline" width = "400" >
+<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/timeline.jpg" alt="timeline" >
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/comment.jpg" alt="comment" width = "400" >
+<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/comment.jpg" alt="comment" >
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/profile.jpg" alt="feed example" width = "400" >
+<img width="300"  src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/profile.jpg" alt="feed example"  >
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/other-profile2.jpg" alt="feed example" width = "400" >
+<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/other-profile2.jpg" alt="feed example"  >
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/search.jpg" alt="search" width = "400" >
+<img width="300"  src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/search.jpg" alt="search" >
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/post.jpg" alt="post screen" width = "400" >
+<img width="300"  src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/post.jpg" alt="post screen"  >
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/post3.jpg" alt="post" width = "400" >
+<img width="300"  src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/post3.jpg" alt="post"  >
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/message.jpg" alt="chat" width = "400" >
+<img width="300"  src="https://raw.githubusercontent.com/0ujjwalmishra0/social-app/master/screenshots/message.jpg" alt="chat" >
 
 </p>
 
